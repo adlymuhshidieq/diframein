@@ -1,0 +1,68 @@
+* {
+  font-family: "Quicksand", sans-serif;
+}
+
+#home {
+  scroll-margin: 20px;
+}
+
+/* Warna utama background */
+.primary-background {
+  background-color: #f8f5f1;
+  background-size: cover;
+}
+
+/* Warna kedua background */
+.second-background {
+  background-color: #fdfdfc;
+  background-size: cover;
+}
+
+/* Memberikan efek animasi saat hover */
+.nav-link:hover {
+  border-bottom: 1px solid #d0d0d0;
+  background: #e1e1e1;
+  padding-top: 0;
+}
+
+/* Css about */
+#about {
+  scroll-margin: 50px;
+}
+
+.about {
+  margin-top: 10px;
+}
+
+#welcome-message {
+  font-size: 64px;
+  color: #3e4749;
+}
+
+/* Product CSS */
+#product {
+  scroll-margin: 30px;
+}
+
+.carousel-indicators {
+  color: black;
+}
+
+/* Css Contact */
+#contact {
+  scroll-margin: 40px;
+}
+
+.contact {
+  margin-top: 50px;
+}
+
+#contact a {
+  text-decoration: none;
+  color: black;
+  margin: 1px auto;
+}
+
+#testimonials {
+  scroll-margin: 10px;
+}
